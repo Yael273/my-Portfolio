@@ -2,6 +2,10 @@ body {
     overflow-x: hidden;
     font-family: 'Roboto Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
+/* img {
+    width: 200px; You can set the dimensions to whatever you want
+    height: 200px;
+} */
 p {
     line-height: 1.75;
 }
@@ -193,7 +197,7 @@ body {
 header.masthead {
     text-align: center;
     color: white;
-    background-image: url("../img/header-bg.jpg");
+    background-image: url("../img/close-up-photography-of-leaves.webp");
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center center;
@@ -211,14 +215,14 @@ header.masthead .intro-text .intro-lead-in {
     font-style: italic;
     line-height: 22px;
     margin-bottom: 25px;
-    font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'pacifico','Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 header.masthead .intro-text .intro-heading {
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
     margin-bottom: 25px;
-    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Helvetica Neue', Helvetica,'Montserrat',  Arial, sans-serif;
     text-transform: uppercase;
 }
 @media (min-width: 768px) {
